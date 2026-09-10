@@ -8,7 +8,7 @@
 | --- | --- |
 | Teri | PM, Development |
 | Seung | Design |
-| Jay | Development |
+| Jay | QA |
 | Kevin | Development |
-| Erica | Development |
+| Erica | Development, QA |
 
